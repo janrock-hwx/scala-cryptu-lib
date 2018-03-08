@@ -1,1 +1,0 @@
-# scala-cryptu-lib
